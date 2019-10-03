@@ -1,0 +1,19 @@
+.masthead-intro{
+    color: yellow;
+    font-size:40px;
+  }
+  
+  .masthead-heading{
+    color: #EF67EF;
+  }
+  
+  .masthead{
+  padding:6em 0;
+  background-image:
+  url(https://www.smokinbeans.com/wp-content/uploads/2018/06/Tropical-Paradise.jpg);
+  background-size: 100% 100%;
+  background-repeat:no-repeat;
+  border-top: solid 1em #FFCF33;
+  }
+   
+    
